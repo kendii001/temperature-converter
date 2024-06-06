@@ -1,0 +1,31 @@
+body{
+    background-color: azure;
+}
+h1{
+color: darkblue;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.container{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    
+}
+#yourinput{
+    padding: auto;
+
+    
+    font-size: 1em;
+
+
+}
+#button1{
+    background-color: aqua;
+    font-size: 1em;
+}
+#button1:hover{
+    background-color: blueviolet;
+}
